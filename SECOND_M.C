@@ -30,5 +30,5 @@ void main()
    if (counter==0)
       printf("The average of 2nd largest & 2nd smallest is not in the array\n");
    else
-      printf("The average of 2nd largest & 2nd smallest in array is %d in numbers\n", counter);
+       printf("The average of 2nd largest & 2nd smallest in array is %d in numbers\n", counter);
 }
